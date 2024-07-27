@@ -16,7 +16,7 @@ int main()
     cout<<"Array of numbers : ";
     for(i=0;i<n;i++)
     {
-        cout<<s[i];
+        cout<<s[i]<<" ";
     }
     cout<<"\nAverage of numbers : "<<sum/n;
     return 0;
